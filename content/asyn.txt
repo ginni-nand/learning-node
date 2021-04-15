@@ -1,0 +1,2 @@
+here is res:: this is first text file
+,thois is second file
