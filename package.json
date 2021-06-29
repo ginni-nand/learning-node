@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.6.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "mongoose": "^2.4.2",
+    "npm": "^5.5.1"
   }
 }
